@@ -6,5 +6,7 @@ public class HelloWorld{
         System.out.println("modify on dev branch");
 
         System.out.println("modify for file compare");
+
+        System.out.println("Merger complict file test,other update");
     }
 }
