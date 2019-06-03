@@ -7,6 +7,8 @@ public class HelloWorld{
 
         System.out.println("modify for file compare");
 
+        System.out.println("Merger complict file test,other update");
+
         System.out.println("Merger complict file test  on IDEA_Git02");
     }
 }
